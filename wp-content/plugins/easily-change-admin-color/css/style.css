@@ -1,0 +1,67 @@
+#cam_left{
+	width: 47%;
+	padding-right: 40px;
+	float: left;	
+}
+
+#cam_right{
+	width: 50%;
+	float: left;
+}
+
+.cam_pop_color{
+	width: 100px;
+	height: 100px;
+	margin: 5px;
+	float: left;	
+}
+
+.cam_pop_color_desc{
+	background-color: #FFFFFF;
+    color: #000000;
+    font-weight: bold;
+    height: 12px;
+    line-height: 12px;
+    margin-left: 21px;
+    margin-top: 75px;
+    padding: 5px;
+    width: 49px;
+}
+
+.current-scheme{
+	display: block;	
+}
+
+#cam_color_picker{
+	margin-top: 30px;
+	clear: left;
+	float: left;
+}
+
+
+#twitter{
+	background-image: url("images/twittericon.png");
+    float: left;
+    height: 53px;
+    margin-left: 8px;
+    margin-top: 0;
+    width: 51px;	
+}
+#fiverr{
+	background-image: url("images/fiverr.png");
+	margin-left: 10px;
+	height: 46px;
+	width: 46px;
+	float: left;
+}
+
+#cam_scheme{
+	float: left;
+	clear: left;
+	margin-top: 30px;	
+}
+
+#cam_left .pending-count,
+#cam_left .plugin-count{
+	display: none;	
+}

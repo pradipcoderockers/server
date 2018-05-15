@@ -1,0 +1,25 @@
+
+											#menu-dashboard a .wp-menu-name{
+												background-color: #fff !important;
+												color: #fff !important;	
+											}
+										
+								#menu-posts{
+									display: none !important;
+								}	
+							
+											#menu-media a .wp-menu-name{
+												background-color: #000 !important;
+												color: #fff !important;	
+											}
+										
+											#menu-pages a .wp-menu-name{
+												background-color: #eee !important;
+												color: #fff !important;	
+											}
+										
+											#menu-posts-blog a .wp-menu-name{
+												background-color: #333 !important;
+												color: #fff !important;	
+											}
+										

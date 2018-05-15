@@ -1,0 +1,5 @@
+[11-Dec-2017 06:25:55 UTC] PHP Fatal error:  Call to undefined function is_product_category() in /home/codesq/public_html/restaurant/wp-content/themes/spotcodes/partials/title_box.php on line 40
+[11-Dec-2017 06:26:12 UTC] PHP Fatal error:  Call to undefined function is_product_category() in /home/codesq/public_html/restaurant/wp-content/themes/spotcodes/partials/title_box.php on line 40
+[11-Dec-2017 06:26:36 UTC] PHP Fatal error:  Call to undefined function is_product_category() in /home/codesq/public_html/restaurant/wp-content/themes/spotcodes/partials/title_box.php on line 40
+[11-Dec-2017 06:27:15 UTC] PHP Fatal error:  Call to undefined function is_product_category() in /home/codesq/public_html/restaurant/wp-content/themes/spotcodes/partials/title_box.php on line 40
+[11-Dec-2017 06:27:22 UTC] PHP Fatal error:  Call to undefined function is_product_category() in /home/codesq/public_html/restaurant/wp-content/themes/spotcodes/partials/title_box.php on line 40
